@@ -18,6 +18,7 @@ h2{
 }
 .flexible-container{
   display: flex;
+  text-align: justify;
   margin-top: 30px;
   margin-bottom: 100px;
 }
